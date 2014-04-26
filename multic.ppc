@@ -1,0 +1,25 @@
+[DeviceName]
+Value=
+[DeviceClock]
+Value=0
+[MainUnit]
+Value=
+[DeviceFlags]
+Count=0
+[BuildType]
+bType=0
+[ProjectFiles]
+Count=0
+[HeaderFiles]
+Count=0
+[ObjLibFiles]
+Count=0
+[PLDFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[SearchPath]
+Count=1
+Value0=I:\Documents\Projects\Pic Tools\Multiplexed 7-Seg\
+[IncludePath]
+Count=0

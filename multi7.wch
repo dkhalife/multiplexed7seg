@@ -1,0 +1,16 @@
+[frmWatchValues]
+FormVersion=0
+Name1=FARG_Display_nbr_v
+ShowType1=0
+Signed1=FALSE
+Expanded1=FALSE
+Name2=FARG_Display_nbr_v
+ShowType2=3
+Signed2=FALSE
+Expanded2=FALSE
+WatchCount=1
+Column0=100
+Column1=80
+Column2=80
+cbPeripheralFreez_Checked=TRUE
+
